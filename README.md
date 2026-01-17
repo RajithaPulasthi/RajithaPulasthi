@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-```typescript
+
 const pulasthi = {
     education: "Software Engineering @ NIBM",
     interests: ["Web Development", "Software Architecture", "Problem Solving"],
@@ -22,7 +22,7 @@ const pulasthi = {
     lifePhilosophy: "Learn, Build, Iterate, Improve 🔄",
     openTo: ["Collaborations", "Internships", "Open Source Projects"]
 };
-```
+
 
 <div align="center">
 
