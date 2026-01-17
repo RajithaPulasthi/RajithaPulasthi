@@ -2,7 +2,7 @@
 
 # 👨‍💻 Pulasthi Fernando
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver+%26+Innovator;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Pyxelio.co;easycart.lk;Building+Scalable+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvrpulasthi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajithaPulasthi)
@@ -18,7 +18,7 @@
 const pulasthi = {
     education: "Software Engineering @ NIBM",
     interests: ["Web Development", "Software Architecture", "Problem Solving"],
-    currentFocus: "Building efficient & scalable web applications",
+    currentFocus: "Pyxelio and Easycart",
     lifePhilosophy: "Learn, Build, Iterate, Improve 🔄",
     openTo: ["Collaborations", "Internships", "Open Source Projects"]
 };
