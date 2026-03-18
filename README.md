@@ -22,7 +22,6 @@ const pulasthi = {
     roles: [
         "Co-founder & Developer @ Pyxelio Digital",
         "Operations Manager @ Easycart.lk",
-        "Content Creator @ Iplay Dynamic (MSI Pages)"
     ],
     interests: ["Web Development", "SaaS Products", "Digital Marketing", "AI Tooling"],
     currentFocus: "Growing Pyxelio Digital & building Easycart.lk",
@@ -121,26 +120,6 @@ const pulasthi = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajithaPulasthi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=FFFFFF)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajithaPulasthi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RajithaPulasthi/RajithaPulasthi/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
