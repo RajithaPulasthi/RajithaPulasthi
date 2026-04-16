@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Pulasthi Kottegoda
+# 👨‍💻 Pulasthi Fernando
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Co-founder+%40+Pyxelio+Digital;Operations+Manager+%40+Easycart.lk;Building+Digital+Solutions+from+Sri+Lanka" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Frontend+Developer;React+%26+Next.js+Engineer;Building+Modern+Web+Experiences;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvrpulasthi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajithaPulasthi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulasthikottegoda@gmail.com)
-[![Pyxelio](https://img.shields.io/badge/Pyxelio.co-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pyxelio.co)
-[![Easycart](https://img.shields.io/badge/Easycart.lk-10B981?style=for-the-badge&logo=shopify&logoColor=white)](https://easycart.lk)
 
 </div>
 
@@ -18,16 +16,14 @@
 
 ```typescript
 const pulasthi = {
-    education: "Software Engineering @ NIBM",
-    roles: [
-        "Co-founder & Developer @ Pyxelio Digital",
-        "Operations Manager @ Easycart.lk",
-    ],
-    interests: ["Web Development", "SaaS Products", "Digital Marketing", "AI Tooling"],
-    currentFocus: "Growing Pyxelio Digital & building Easycart.lk",
+    education: "BSc (Hons) Software Engineering @ NIBM (Final Year, 2028)",
+    focus: "Frontend-focused Software Engineer",
+    stack: ["React", "Next.js", "TypeScript", "Node.js", "Firebase"],
+    interests: ["Web Development", "SaaS Products", "UI/UX", "AI Tooling"],
+    currentlyLearning: ["AWS", "System Design", "Advanced TypeScript"],
     location: "Sri Lanka 🇱🇰",
     lifePhilosophy: "Learn, Build, Iterate, Improve 🔄",
-    openTo: ["Collaborations", "Freelance Projects", "Open Source"]
+    openTo: ["Full-time Software Engineer roles", "Frontend / Full-stack positions"]
 };
 ```
 
@@ -36,9 +32,9 @@ const pulasthi = {
 ### 🌱 Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square)
 
 </div>
 
@@ -60,6 +56,7 @@ const pulasthi = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -67,6 +64,7 @@ const pulasthi = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,12 +89,12 @@ const pulasthi = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🛒 **Ecommerce Supermarket** | Full-stack e-commerce platform with product management and checkout | TypeScript, Next.js | [View →](https://github.com/RajithaPulasthi/Proget-4---Ecommerce-Supermarcket) |
-| 🎬 **Movie App** | Android movie browsing application with search and details | Kotlin | [View →](https://github.com/RajithaPulasthi/MovieApp) |
-| 🐟 **Smart Tank** | IoT-integrated smart aquarium monitoring system | CSS, IoT | [View →](https://github.com/RajithaPulasthi/Smart-Tank) |
-| 📚 **Book Store** | Full-stack e-commerce platform for book management and sales | JavaScript, Node.js, MongoDB | [View →](https://github.com/RajithaPulasthi/Book-Store) |
-| 📖 **Library Management** | Comprehensive library system with book tracking and user management | Java, MySQL | [View →](https://github.com/RajithaPulasthi/LibraryManagement) |
-| 📱 **MAD Coursework** | Mobile application development project | Kotlin | [View →](https://github.com/RajithaPulasthi/MADCourseWork) |
+| 🐟 **Smart Tank** | IoT + ML aquarium platform — real-time sensor data via MQTT, Random Forest water-quality predictions. Team Lead. | React, TypeScript, MUI, .NET, MQTT, Python | [View →](https://github.com/RajithaPulasthi/Smart-Tank) |
+| 🛒 **Easycart.lk** | Multi-vendor e-commerce platform serving 40+ active shops. Frontend Developer. | React, Node.js, Firebase | [Live →](https://easycart.lk) |
+| 🏨 **WYC Villas & Restaurant** | Villa and restaurant website with online room booking system and admin dashboard. | Next.js, React | [Live →](https://wycvillasandrestaurant.com) |
+| 🍱 **Golden Flavor Japan** | Restaurant ordering website + custom admin dashboard for a Japanese brand in Tokyo. | Next.js, React | [Live →](https://goldenflavor.jp) |
+| 🌐 **Pahan.lk** | Full website development — frontend architecture and deployment. | Next.js | [Live →](https://pahan.lk) |
+| 🛍️ **Ecommerce Supermarket** | Full-stack e-commerce platform with product management and checkout. | TypeScript, Next.js | [View →](https://github.com/RajithaPulasthi/Proget-4---Ecommerce-Supermarcket) |
 
 </div>
 
@@ -139,13 +137,12 @@ const pulasthi = {
 
 <div align="center">
 
-I'm always interested in collaborating on interesting projects or discussing technology. Feel free to reach out!
+I'm actively looking for **full-time Software Engineer roles** — full-stack, frontend, or React/Next.js focused. Feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kvrpulasthi/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulasthikottegoda@gmail.com)
-[![Pyxelio](https://img.shields.io/badge/Pyxelio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pyxelio.co)
 
-### 💬 "The only way to do great work is to love what you do." - Steve Jobs
+### 💬 "The only way to do great work is to love what you do." — Steve Jobs
 
 ---
 
